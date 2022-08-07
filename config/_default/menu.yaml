@@ -7,7 +7,3 @@ main:
     name: Contact
     url: /contact
     weight: 200
-  - identifier: news
-    name: News
-    url: /news
-    weight: 300
