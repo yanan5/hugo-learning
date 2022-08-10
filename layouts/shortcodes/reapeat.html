@@ -1,0 +1,9 @@
+{{$count := default 5 (default (.Get 0) (.Get "count"))}}
+{{$inner := .Inner | markdownify}}
+{{if gt $count 0}}
+<ol>
+    {{range seq $count}}
+    <li>{{$inner}}</li>
+    {{end}}
+</ol>
+{{end}}
