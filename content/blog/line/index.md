@@ -1,15 +1,14 @@
-___
-date: 2022-08-10T20:26:38+05:30
+---
+date: 2019-07-03T15:53:42-07:00
 title: "Line"
 draft: true
 tags:
-    - unkown
+  - unknown
 categories:
-    - general
-___
+  - general
+---
 
-Provide an awesome introduction here
-
+**Provide an awesome introduction here**
 <!--more-->
 
-Here goes the main content
+Here goes the main content.

@@ -9,6 +9,7 @@ In geometry, a square is a regular quadrilateral, which means that it has four e
 ## Price
 
 The square is priced at `{{< price "Square" >}}`.
+
 ## Characterizations
 
 A convex quadrilateral is a square if and only if it is any one of the following

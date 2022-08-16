@@ -14,5 +14,5 @@ content:
         content:  A geometric figure formed by a point moving along a fixed direction and the reverse direction.
       - title: Rectangle
         content: A quadrilateral plane figure having all its angles right angles and its opposite sides consequently equal.
----
 
+---

@@ -1,24 +1,30 @@
 ---
 title: Acme Corporation
-description: Welcome to the website of Acme Corporation, the leading creator of digital shapes on the planet providing precise shape creations that are ready to use.
-subtitle: Shaping the **world** for you to **live in**
+description: Welcome to the website of Acme Corporation, the leading creator of digital shapes on the planet, providing precise shape creations that are ready to use.
+subtitle: shaping the **world** for you to **live in**
 explore: blog
-type: modern
 testimonials:
-    - author: Brad
-      from: Fictional Incorporated
-      content: >
-              We have been using the shapes from Acme
-              in our products for ages. They are
+  - author: Brad
+    from: Fictional Incorporated
+    content: >
+              We have been using the shapes from Acme 
+              in our products for ages. They are 
               precise, smooth, and very well built.
-    - author: Random
-      from: Random Education
-      content: Sharp and sturdy - Just like you want them.
-    - author: Richter
-      from: Richter Measures
-      content: >
-            Undoubted accuracy. Safety guarantee.
-            We love what Acme delivers.
+
+
+  - author: Random
+    from: Random Education
+    content: >
+             Sharp and sturdy - Just like you want them.
+
+
+  - author: Richter
+    from: Richter Measures
+    content: >
+             Undoubted accuracy. Safety guarantee.
+             We love what Acme delivers.
+
+
 ---
 
 Acme is the **best**

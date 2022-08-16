@@ -5,7 +5,7 @@ menu:
     identifier: credits
     weight: 400
 ---
-  
+
 Credits
 =======
 

@@ -1,13 +1,13 @@
 ---
-menu: 
+menu:
   main:
-    name: Blog 
-    identifier: blog 
+    name: Blog
+    identifier: blog
     weight: 110
     post: From our editor
-footer:
-  name: Blog
-  weight: 100
+  footer:
+    name: Blog
+    weight: 100
 ---
 The Acme Blog
 ============

@@ -12,6 +12,7 @@ A circle may also be defined as a special kind of ellipse in which the two foci 
 ## Price
 
 The circle is priced at `{{< price product="Circle" >}}`.
+
 ## Terminology
 
 * **Annulus** a ring-shaped object, the region bounded by two concentric circles.
